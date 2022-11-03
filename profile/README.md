@@ -1,12 +1,6 @@
-## Thoughtgears :gear:
+## :gear: Thoughtgears :gear:
 
-<!--
+Helping companies migrate to Google Cloud using open source tools and frameworks we accelerate your migration in shorter time and for less cost.  
+We use industry best practices and toolsets to help you get to Google Cloud faster and allows you to own your implementation.  
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+All our tools and frameworks are licenced under [APACHE2](../LICENCE). 
