@@ -1,6 +1,6 @@
 ## :gear: Thoughtgears :gear:
  
-All our tools and frameworks are licenced under [APACHE2](https://github.com/thoughtgears/.github/blob/main/LICENCE). 
+All our tools and frameworks are licenced under [APACHE2](https://github.com/thoughtgears/.github/blob/main/LICENCE) or [MIT](https://opensource.org/license/mit). 
 
 ### Contributors
 
