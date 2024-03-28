@@ -1,21 +1,25 @@
 ## :gear: Thoughtgears :gear:
  
-All our tools and frameworks are licenced under [APACHE2](https://github.com/thoughtgears/.github/blob/main/LICENCE) or [MIT](https://opensource.org/license/mit). 
+All our tools and frameworks are licensed under [APACHE2](https://github.com/thoughtgears/.github/blob/main/LICENCE) or [MIT](https://opensource.org/license/mit). 
 
 ### Contributors
 
-Jens Skott [jens.skott@gmail.com](mailto:jens.skott@gmail.com)  [github.com/jensskott](https://github.com/jensskott)  
+Jens Skott [jens.skott@thoughtgears.co.uk](mailto:jens.skott@thoughtgears.co.uk)  [github.com/jensskott](https://github.com/jensskott)  
 
-* Pulumi
 * Google Cloud Platform
 * Google Workspaces
 * Terraform
+* Kubernetes
+* Spacelift
 * Ansible
 * Chef
-* Github Actions
+* GitHub Actions
+* GitHub Advanced Security
+* Snyk
 * Docker
 * Packer
 * Golang
 * NodeJS/Typescript
 * Python
 * Bash
+* Pulumi
