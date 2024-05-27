@@ -4,7 +4,7 @@ All our tools and frameworks are licensed under [APACHE2](https://github.com/tho
 
 ### Contributors
 
-Jens Skott [jens.skott@thoughtgears.co.uk](mailto:jens.skott@thoughtgears.co.uk)  [github.com/jensskott](https://github.com/jensskott)  
+Jens Skott [jens.skott@thoughtgears.co.uk](mailto:jens.skott@thoughtgears.co.uk)
 
 * Google Cloud Platform
 * Google Workspaces
