@@ -12,7 +12,7 @@ all in scope — but if you're a GCP shop, the depth here is unusual.
 
 <p align="center">
   <a href="https://thoughtgears.co.uk"><img src="https://img.shields.io/badge/Website-thoughtgears.co.uk-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://cv.thoughtgears.dev"><img src="https://img.shields.io/badge/CV-cv.thoughtgears.dev-22C55E?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV"></a>
+  <a href="https://jensskott.com/cv/"><img src="https://img.shields.io/badge/CV-jensskott.com%2Fcv-22C55E?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV"></a>
   <a href="https://www.linkedin.com/company/thoughtgears"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
